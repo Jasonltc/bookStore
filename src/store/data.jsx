@@ -13,7 +13,7 @@ export const DUMMY_PRODUCTS = [
     price: 12,
     title: "After Even happy",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum dolor sed ullamcorper feugiat. Suspendisse vulputate commodo enim, et pulvinar dui iaculis nec.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum dolor sed ullamcorper feugiat.",
     cover: bookcover1,
   },
   {
@@ -37,7 +37,7 @@ export const DUMMY_PRODUCTS = [
     price: 35,
     title: "Bridgeton saison 1",
     description:
-      "Nulla bibendum dolor sed ullamcorper feugiat. Suspendisse vulputate commodo enim, et pulvinar dui iaculis nec.",
+      "Nulla bibendum dolor sed ullamcorper feugiat. Suspendisse vulputate.",
     cover: bookcover4,
   },
   {
@@ -45,7 +45,7 @@ export const DUMMY_PRODUCTS = [
     price: 30,
     title: "Good girl complex",
     description:
-      "Nulla bibendum dolor sed ullamcorper feugiat. Suspendisse vulputate commodo enim, et pulvinar dui iaculis nec.",
+      "Nulla bibendum dolor sed ullamcorper feugiat. Suspendisse vulputate commodo enim.",
     cover: bookcover5,
   },
   {
@@ -53,7 +53,7 @@ export const DUMMY_PRODUCTS = [
     price: 25,
     title: "Normal people",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum dolor sed ullamcorper feugiat. Suspendisse vulputate commodo enim, et pulvinar dui iaculis nec.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum dolor sed ullamcorper feugiat.",
     cover: bookcover6,
   },
   {
@@ -61,7 +61,7 @@ export const DUMMY_PRODUCTS = [
     price: 20,
     title: "Secret",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum dolor sed ullamcorper feugiat. Suspendisse vulputate commodo enim, et pulvinar dui iaculis nec.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum dolor sed ullamcorper feugiat.",
     cover: bookcover7,
   },
   {
@@ -69,7 +69,7 @@ export const DUMMY_PRODUCTS = [
     price: 40,
     title: "Ugly Love",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum dolor sed ullamcorper feugiat. Suspendisse vulputate commodo enim, et pulvinar dui iaculis nec.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum dolor sed ullamcorper feugiat.",
     cover: bookcover8,
   },
 ];
